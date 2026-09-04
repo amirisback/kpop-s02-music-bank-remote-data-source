@@ -1,0 +1,37 @@
+[
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_05/",
+    "music_title": "boompala",
+    "music_url": "boompala.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_05/",
+    "music_title": "ddi_ro_ri",
+    "music_url": "ddi_ro_ri.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_05/",
+    "music_title": "iconic_by_mistake",
+    "music_url": "iconic_by_mistake.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_05/",
+    "music_title": "if_i",
+    "music_url": "if_i.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_05/",
+    "music_title": "lemon_tang",
+    "music_url": "lemon_tang.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_05/",
+    "music_title": "lemonade",
+    "music_url": "lemonade.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_05/",
+    "music_title": "run_it",
+    "music_url": "run_it.mp3"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_02/",
+    "music_title": "divine",
+    "music_url": "divine.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_02/",
+    "music_title": "fame",
+    "music_url": "fame.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_02/",
+    "music_title": "famous",
+    "music_url": "famous.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_02/",
+    "music_title": "fashion",
+    "music_url": "fashion.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_02/",
+    "music_title": "good_goodbye",
+    "music_url": "good_goodbye.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_02/",
+    "music_title": "holiday",
+    "music_url": "holiday.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_02/",
+    "music_title": "look_at_me",
+    "music_url": "look_at_me.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_02/",
+    "music_title": "not_cute_anymore",
+    "music_url": "not_cute_anymore.mp3"
+  }
+]

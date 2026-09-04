@@ -1,0 +1,42 @@
+[
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_01/",
+    "music_title": "blue_valentine",
+    "music_url": "blue_valentine.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_01/",
+    "music_title": "burning_up",
+    "music_url": "burning_up.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_01/",
+    "music_title": "cant_stop",
+    "music_url": "cant_stop.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_01/",
+    "music_title": "debut",
+    "music_url": "debut.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_01/",
+    "music_title": "do_it",
+    "music_url": "do_it.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_01/",
+    "music_title": "focus",
+    "music_url": "focus.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_01/",
+    "music_title": "one_more_time",
+    "music_url": "one_more_time.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_01/",
+    "music_title": "spaghetti",
+    "music_url": "spaghetti.mp3"
+  }
+]

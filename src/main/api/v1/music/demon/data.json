@@ -1,0 +1,37 @@
+[
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/demon/",
+    "music_title": "free",
+    "music_url": "free.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/demon/",
+    "music_title": "golden",
+    "music_url": "golden.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/demon/",
+    "music_title": "how_its_done",
+    "music_url": "how_its_done.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/demon/",
+    "music_title": "soda_pop",
+    "music_url": "soda_pop.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/demon/",
+    "music_title": "takedown",
+    "music_url": "takedown.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/demon/",
+    "music_title": "what_it_sounds_like",
+    "music_url": "what_it_sounds_like.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/demon/",
+    "music_title": "your_idol",
+    "music_url": "your_idol.mp3"
+  }
+]

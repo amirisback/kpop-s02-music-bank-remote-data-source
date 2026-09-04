@@ -1,0 +1,42 @@
+[
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_06/",
+    "music_title": "animal",
+    "music_url": "animal.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_06/",
+    "music_title": "joyride",
+    "music_url": "joyride.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_06/",
+    "music_title": "less_than_a_lover",
+    "music_url": "less_than_a_lover.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_06/",
+    "music_title": "m.i.a",
+    "music_url": "m.i.a.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_06/",
+    "music_title": "my_way",
+    "music_url": "my_way.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_06/",
+    "music_title": "ride_or_die",
+    "music_url": "ride_or_die.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_06/",
+    "music_title": "rude",
+    "music_url": "rude.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_06/",
+    "music_title": "viral",
+    "music_url": "viral.mp3"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_04/",
+    "music_title": "bad_angel",
+    "music_url": "bad_angel.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_04/",
+    "music_title": "bang_bang",
+    "music_url": "bang_bang.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_04/",
+    "music_title": "big_girls_dont_cry",
+    "music_url": "big_girls_dont_cry.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_04/",
+    "music_title": "blackhole",
+    "music_url": "blackhole.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_04/",
+    "music_title": "not_me",
+    "music_url": "not_me.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_04/",
+    "music_title": "pinky_up",
+    "music_url": "pinky_up.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_04/",
+    "music_title": "sleep_tight",
+    "music_url": "sleep_tight.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_04/",
+    "music_title": "stick_with_you",
+    "music_url": "stick_with_you.mp3"
+  }
+]

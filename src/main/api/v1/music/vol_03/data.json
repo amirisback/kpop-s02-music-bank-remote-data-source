@@ -1,0 +1,37 @@
+[
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_03/",
+    "music_title": "internet_girl",
+    "music_url": "internet_girl.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_03/",
+    "music_title": "knife",
+    "music_url": "knife.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_03/",
+    "music_title": "lost_island",
+    "music_url": "lost_island.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_03/",
+    "music_title": "love_language",
+    "music_url": "love_language.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_03/",
+    "music_title": "mono",
+    "music_url": "mono.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_03/",
+    "music_title": "no_way_back",
+    "music_url": "no_way_back.mp3"
+  },
+  {
+    "base_url": "/kpop-s02-music-bank-remote-data-source/api/v1/music/vol_03/",
+    "music_title": "sign",
+    "music_url": "sign.mp3"
+  }
+]
